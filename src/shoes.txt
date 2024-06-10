@@ -1,0 +1,18 @@
+1,Nike,AirMax,42.5,./img/download.jpg
+2,Adidas,UltraBoost,41.0,./img/download (1).jpg
+5,Vans,Old Skool,42.0,./img/image5.jpg
+6,Reebok,Classic,41.0,./img/image6.jpg
+7,New Balance,574,43.0,./img/image7.jpg
+9,Under Armour,UA HOVR,40.5,./img/image9.jpg
+10,Jordan,Air Jordan 1,44.0,./img/image10.jpg
+11,Skechers,D'Lux Walker,42.0,./img/image11.jpg
+12,Salomon,Speedcross,41.0,./img/image12.jpg
+13,Brooks,Glycerin,42.5,./img/image13.jpg
+14,Columbia,Redmond,43.0,./img/image14.jpg
+15,Hoka One One,Clifton,40.0,./img/image15.jpg
+16,Mizuno,Wave Rider,41.5,./img/image16.jpg
+17,Altra,Escalante,42.0,./img/image17.jpg
+18,Merrell,Moab 2,44.0,./img/image18.jpg
+19,Saucony,Triumph,43.0,./img/image19.jpg
+20,La Sportiva,Bushido,42.5,./img/image20.jpg
+4,Vans,Sport,40.0,E:\LapTrinhNangCao\BTL-LTNC-20232\src\img\image20.jpg

@@ -1,0 +1,6 @@
+diep,diep,true
+admin,admin,true
+ly,ly,false
+user1,user,false
+jane,jane,true
+user2,abc,true
